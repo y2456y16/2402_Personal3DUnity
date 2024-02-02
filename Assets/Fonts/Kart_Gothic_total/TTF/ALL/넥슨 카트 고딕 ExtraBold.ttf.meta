@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: ebd7c9c6c231dc84f949b766884e2099
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kartrider
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 24a2624afae9271429e4f80081c1a0f9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
